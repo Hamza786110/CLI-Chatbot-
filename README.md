@@ -81,7 +81,7 @@ python CLI_chatbot.py
 
 ---
 
-## ⚠️ Important
+## Important
 
 Never push your `.env` file to GitHub. Make sure your `.gitignore` includes:
 ```
